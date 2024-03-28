@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  ToDoListDraft
-//
-//  Created by 박미림 on 3/22/24.
-//
-
 import UIKit
 
 @main

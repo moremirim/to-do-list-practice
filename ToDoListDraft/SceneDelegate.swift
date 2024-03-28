@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  ToDoListDraft
-//
-//  Created by 박미림 on 3/22/24.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
