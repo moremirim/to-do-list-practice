@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D1A071E2BB56979001E0040 /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D1A071D2BB56979001E0040 /* EntryViewController.swift */; };
+		8D1A07202BB569AD001E0040 /* TaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D1A071F2BB569AD001E0040 /* TaskViewController.swift */; };
 		8DED74312BAD59CF0088BE58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DED74302BAD59CF0088BE58 /* AppDelegate.swift */; };
 		8DED74332BAD59CF0088BE58 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DED74322BAD59CF0088BE58 /* SceneDelegate.swift */; };
 		8DED74352BAD59CF0088BE58 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DED74342BAD59CF0088BE58 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D1A071D2BB56979001E0040 /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
+		8D1A071F2BB569AD001E0040 /* TaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewController.swift; sourceTree = "<group>"; };
 		8DED742D2BAD59CF0088BE58 /* ToDoListDraft.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoListDraft.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DED74302BAD59CF0088BE58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DED74322BAD59CF0088BE58 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +44,8 @@
 		8DED74242BAD59CF0088BE58 = {
 			isa = PBXGroup;
 			children = (
+				8D1A071F2BB569AD001E0040 /* TaskViewController.swift */,
+				8D1A071D2BB56979001E0040 /* EntryViewController.swift */,
 				8DED742F2BAD59CF0088BE58 /* ToDoListDraft */,
 				8DED742E2BAD59CF0088BE58 /* Products */,
 			);
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8DED74352BAD59CF0088BE58 /* ViewController.swift in Sources */,
+				8D1A071E2BB56979001E0040 /* EntryViewController.swift in Sources */,
+				8D1A07202BB569AD001E0040 /* TaskViewController.swift in Sources */,
 				8DED74312BAD59CF0088BE58 /* AppDelegate.swift in Sources */,
 				8DED74332BAD59CF0088BE58 /* SceneDelegate.swift in Sources */,
 			);
